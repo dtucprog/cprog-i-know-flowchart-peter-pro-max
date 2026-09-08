@@ -1,0 +1,17 @@
+Process: Morning routine
+
+1. Start.
+2. Input alarm_clock.
+3. Go to sleep.
+4. Output alarm_clock rings.
+5. Wake-up.
+6. Put clothes on.
+7. Put water in a pot to boil.
+8. Decision: Is the water boiling?
+   - No: Wait 30 seconds, then check again.
+   - Yes: Drop in 2 eggs and wait 6 minutes.
+9. Put the eggs in cold water for 2 minutes.
+10. Peel the shell and eat the egg.
+11. Brush teeth.
+12. Leave the house and lock the door.
+13. End.
